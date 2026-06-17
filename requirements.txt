@@ -1,0 +1,7 @@
+pandas
+openpyxl
+Pillow
+dropbox
+python-dotenv
+requests
+wget
